@@ -8,7 +8,7 @@ This is a JAVA Project that use MYSQL database for creating a Event Management S
 
 - Used Java 8 and XAMPP Mysql
 - No installation necessary - just fork the repository [link](https://github.com/Prathmesh9860/Java-Event_Management_System#installation).
-- Stupidly [easy to use](https://github.com/karan/joe#usage)
+- Stupidly [easy to use](https://github.com/Prathmesh9860/Java-Event_Management_System#installation)
 - Supports all system with JRE.
 - Works on JVM.
 
