@@ -42,7 +42,7 @@ CREATE TABLE `account` (
 
 INSERT INTO `account` (`username`, `name`, `password`, `sec_q`, `sec_ans`) VALUES
 ('Shubh26', 'Shubhayu', 'Shubh26', 'Your NickName?', 'Shubh'),
-('prathmeshSD', 'Prathmesh Dhatrak', 'remember_pass9860', 'Your Lucky Number?', '7'),
+('prathmeshSD', 'Prathmesh Dhatrak', '123456', 'Your Lucky Number?', '7'),
 ('Prathmesh83', 'Prathmesh Santosh', '123456', 'Your Lucky Number?', '7'),
 ('Walter_bad', 'Walter White', '123456', 'Your Lucky Number?', '17');
 
